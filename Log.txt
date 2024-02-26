@@ -1,0 +1,14 @@
+! StartPoint out of grid (10, 220)
+  StartPoint set as (12, 44)
+  Line{start=(12, 44), end=(37, 71)}
+  CircularArc{StartPoint=(37, 71), EndPoint=(108, 56), CenterPoint=(70, 54)}
+  Line{start=(108, 56), end=(158, 22)}
+  CircularArc{StartPoint=(158, 22), EndPoint=(195, 35), CenterPoint=(175, 33)}
+  Line{start=(195, 35), end=(170, 125)}
+! Line out of the grid Line{start=(170, 125), end=(1170, 165)}
+  Line{start=(170, 125), end=(210, 125)}
+! Circular arc out of the grid CircularArc{StartPoint=(210, 125), EndPoint=(265, 127), CenterPoint=(237, 147)}
+  CircularArc{StartPoint=(210, 125), EndPoint=(265, 126), CenterPoint=(237, 147)}
+  Line{start=(210, 125), end=(200, 25)}
+! Circular arc out of the grid CircularArc{StartPoint=(200, 25), EndPoint=(146, -68), CenterPoint=(167, -18)}
+  Line{start=(200, 25), end=(230, 42)}
